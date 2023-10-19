@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #efefef;
+  font-family: "Fredoka", sans-serif;
+}
+
+.winner-status{
+  font-size: 30px;
+  color: rgb(122, 10, 214);
+  font-weight: bold;
+  text-align: center;
+}
